@@ -1,0 +1,45 @@
+.bg-gray{
+    background-color: #F8F9FB;
+}
+
+body{
+    background-color: #F8F9FB;
+}
+.bg-white{
+    background-color: white;
+}
+.margin-r-2{
+    margin-right: 2rem;
+}
+
+
+
+.color-purple{
+    color: #7770D8;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.color-blue{
+    color: #3882FF;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.color-red{
+    color: #E25551;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.color-yellow{
+    color: #D29504;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.size-30{
+    font-size: 0.8rem;
+    color: #B5B6B9;
+    font-weight: 600;
+}

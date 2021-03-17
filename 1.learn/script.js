@@ -3,7 +3,7 @@ Chart.defaults.global.defaultFontFamily = 'Lato';
 Chart.defaults.global.defaultFontSize = 18;
 Chart.defaults.global.defaultFontColor = '#777';
 let massPopChart = new Chart(myChart, {
-    type:'pie', //bar, horizontalBar, pie, line,doughnut, radar,polarArea
+    type:'bar', //bar, horizontalBar, pie, line,doughnut, radar,polarArea
     data: {
         labels:['Boston', 'Worcester', 'Springfield', 'Lowell', 'Cambridge', 'New Bedford'],
         datasets:[{
